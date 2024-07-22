@@ -50,8 +50,10 @@ header {
   margin-right: 5px;
 }
 
-.location-icons p {
+.location-icons a {
   margin-right: 20px;
+  text-decoration: none;
+  color: #666;
 }
 
 /* Section styles */
@@ -80,6 +82,10 @@ header {
 
 .contact li i {
   margin-right: 10px;
+  color: #666;
+}
+.contact li a {
+  text-decoration: none;
   color: #666;
 }
 
